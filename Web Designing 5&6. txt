@@ -1,0 +1,154 @@
+<Doctype html>
+<Head>
+    <Title>Table and lists</Title>
+</Head>
+<Body>
+        <Dl>
+            
+            <Dt>Bills</Dt>
+            <Dd>There are many types of bills</Dd>
+            <Dt>Bills</Dt>
+            <Dd> we have to many calculations</Dd>
+            </Dl>
+            <B>Now here we see many types of lists first then bills </B>
+            <h1>ordered list</h1>
+            <ol type="A">
+           <i> <li>kartik</li></i>
+           <i> <li>Luv</li></i>
+           <i> <li>Vashika</li></i>
+           <i> <li>Vineet</li></i>
+            </ol>
+            <ol type="1">
+               <b> <li>Ameer</li></b>
+               <b> <li>Vrushy</li></b>
+               <b> <li>Ankush</li></b>
+                <b><li>Khushi</li></b>
+            </ol>
+            <ol type="a">
+              <small> <li>Ranveer</li></small>
+               <small> <li>Anushka</li></small>
+                <small> <li>Ram</li></smallk>
+               <small><li>Suman</li></small>
+            </ol>
+            <ol type="I">
+                <h2><li>Mamta</li></h2>
+                <h2><li>Abhishek</li></h2>
+                <h2><li>Kashika</li></h2>
+                <h2><li>Arpit</li></h2>
+            </ol>
+            <ol type="i">
+                <h3><li>Khusboo</li></h3>
+                <h3><li>Anirudh</li></h3>
+                <h3><li>Bondita</li></h3>
+                <h3><li>Piyush</li></h3>
+                </ol>
+                <h1><i>Unordered list</i></h1>
+                <ul style="list-style: circle;">
+                <b><li>Prabha</li></b>
+                <b><li>Yash</li></b>
+                <b><li>Yashika</li></b>
+                <b><li>Gaurav</li></b>
+            </ul>
+            <ul style="list-style: square;">
+            <i><li>Yash</li></i>
+            <i><li>Saurabh</li></i>
+            <i><li>Gaurav</li></i>
+            <i><li>vaibhav</li></i>
+        </ul>
+        <ul style="list-style: disc;">
+            <u><li>Manisha</li></u>
+            <u><li>Tanisha</li></u>
+            <u><li>Pranjal</li></u>
+            <u><li>Umesh</li></u>
+        </ul>
+        <ul style="list-style: none;">
+        <b><li>Rajesh</li></b>
+        <b><li>Mukesh</li></b>
+        <b><li>Rahul</li></b>
+        <b><li>Ramesh</li></b>
+        </ul>
+        <h1><u><i>Nested list</i></u></h1>
+        <ol type="A">
+            <li>Subhash</li>
+            <li>Priyanka</li>
+            <ul style="list-style: square;">
+                <li>Preksha</li>
+                <li>Pratibha</li>
+                <ol type="1">
+                    <li>Nitin</li>
+                    <li>Prem</li>
+                </ol>
+                </ul>
+                </ol>
+                <H1><i>Tables</i></H1>
+                <Table border="5">
+                    <tbody>
+                        <tr>
+                            <td>Homeopathy bill</td>
+                            <td>Medicine bill</td>
+                            <td>Central university Bill</td>
+                            <td>Taxation law bill</td>
+                        </tr>
+                        <tr>
+                            <td>Constitution bill</td>
+                            <td>Tribunal reforms bill</td>
+                            <td>Constituion order bill</td>
+                            <td>Insurance bill</td>
+                        </tr>
+                        <tr>
+                            <td>Finance bill</td>
+                            <td>Defence service bill</td>
+                            <td>Appropriation bill</td>
+                            <td>Banking regulation bill</td>
+                        </tr>
+                        <table border="7"cellpadding="12"><br><br>
+                            <caption><i><h1>Purchse bill</h1></i>
+                                <thead>
+                                    <tr>
+                                    <th>Item</th>
+                                    <th>Quantity</th>
+                                    <th>Price</th>
+                                    <th>Amount</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Shirt</td>
+                                            <td>3</td>
+                                            <td>200</td>
+                                            <td>600</td>
+
+                                        </tr>
+                                    <tr>
+                                        <td>T-shirt</td>
+                                        <td>2</td>
+                                        <td>400</td>
+                                        <td>800</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Top</td>
+                                        <td>4</td>
+                                        <td>500</td>
+                                        <td>2000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jeans</td>
+                                        <td>2</td>
+                                        <td>800</td>
+                                        <td>1600</td>
+                                    </tr>
+                                    <tr>
+                                    <td>Skirt</td>
+                                    <td>2</td>
+                                    <td>1200</td>
+                                    <td>2400</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                </body>
+                                </html>
+             </Table>
+                </ol>
+                  </ol>
+                </Body>
+                </html>
